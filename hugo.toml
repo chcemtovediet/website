@@ -7,23 +7,24 @@ languageCode = 'sk'
 languageName = 'Slovenčina'
 title = 'Chcem To Vedieť'
 weight = 1
+contentDir = 'content/sk'
 
 [languages.sk.params.paige.site]
 description = 'Informačný portál'
 
 [[languages.sk.menu.main]]
 name = 'Domov'
-url = '/sk/'
+url = '/'
 weight = 10
 
 [[languages.sk.menu.main]]
 name = 'Informácie'
-url = '/sk/informacie/'
+url = '/informacie/'
 weight = 20
 
 [[languages.sk.menu.main]]
 name = 'Program'
-url = '/sk/program/'
+url = '/program/'
 weight = 30
 
 [[languages.sk.menu.main]]
@@ -36,6 +37,7 @@ languageCode = 'en-us'
 languageName = 'English'
 title = 'We Want To Know'
 weight = 2
+contentDir = 'content/en'
 
 [languages.en.params.paige.site]
 description = 'Information portal'
@@ -57,7 +59,7 @@ weight = 30
 
 [[languages.en.menu.main]]
 name = '🇸🇰 Slovenčina'
-url = '/sk/'
+url = '/'
 weight = 100
 
 [markup.goldmark.renderer]

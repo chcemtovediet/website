@@ -1,7 +1,7 @@
 +++
 title = "We Want To Know"
-[paige]
 [paige.pages]
+disable_collections = true
 disable_pages = true
 disable_sections = true
 +++
