@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://chcemtovediet.eu/'
+languageCode = 'sk'
+title = 'Chcem To Vedieť'
+theme = 'paige'
+
+[markup.highlight]
+ noclasses = false
+ style = "github" 
