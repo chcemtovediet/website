@@ -62,6 +62,11 @@ name = '🇸🇰 Slovenčina'
 url = '/'
 weight = 100
 
+[params.paige.pages]
+disable_reading_time = true
+disable_toc = true
+disable_word_count = true
+
 [markup.goldmark.renderer]
 unsafe = true
 

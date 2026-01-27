@@ -4,6 +4,7 @@ title = "Chcem To Vedieť"
 disable_collections = true
 disable_pages = true
 disable_sections = true
+disable_title = true
 +++
 
 {{< paige/image alt="Deti sa učia matematiku v prírode" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" >}}

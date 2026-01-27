@@ -2,8 +2,6 @@
 title = "Program"
 +++
 
-# Program
-
 ## Our Activities
 
 ### Mathematical Nature Walks

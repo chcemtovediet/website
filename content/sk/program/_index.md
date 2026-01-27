@@ -2,8 +2,6 @@
 title = "Program"
 +++
 
-# Program
-
 ## Naše aktivity
 
 ### Matematické vychádzky v prírode

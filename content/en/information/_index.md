@@ -2,8 +2,6 @@
 title = "Information"
 +++
 
-# Information
-
 ## About the Project
 
 We Want To Know is an educational project focused on developing children's mathematical thinking through play and activities in nature. We draw inspiration from the pedagogical principles of Jan Amos Comenius, the father of modern pedagogy, who advocated learning through the senses and direct contact with the world.
