@@ -1,8 +1,68 @@
 baseURL = 'https://chcemtovediet.eu/'
-languageCode = 'sk'
-title = 'Chcem To Vedieť'
+defaultContentLanguage = 'sk'
 theme = 'paige'
 
+[languages.sk]
+languageCode = 'sk'
+languageName = 'Slovenčina'
+title = 'Chcem To Vedieť'
+weight = 1
+
+[languages.sk.params.paige.site]
+description = 'Informačný portál'
+
+[[languages.sk.menu.main]]
+name = 'Domov'
+url = '/sk/'
+weight = 10
+
+[[languages.sk.menu.main]]
+name = 'Informácie'
+url = '/sk/informacie/'
+weight = 20
+
+[[languages.sk.menu.main]]
+name = 'Program'
+url = '/sk/program/'
+weight = 30
+
+[[languages.sk.menu.main]]
+name = '🇬🇧 English'
+url = '/en/'
+weight = 100
+
+[languages.en]
+languageCode = 'en-us'
+languageName = 'English'
+title = 'We Want To Know'
+weight = 2
+
+[languages.en.params.paige.site]
+description = 'Information portal'
+
+[[languages.en.menu.main]]
+name = 'Home'
+url = '/en/'
+weight = 10
+
+[[languages.en.menu.main]]
+name = 'Information'
+url = '/en/information/'
+weight = 20
+
+[[languages.en.menu.main]]
+name = 'Program'
+url = '/en/program/'
+weight = 30
+
+[[languages.en.menu.main]]
+name = '🇸🇰 Slovenčina'
+url = '/sk/'
+weight = 100
+
+[markup.goldmark.renderer]
+unsafe = true
+
 [markup.highlight]
- noclasses = false
- style = "github" 
+noclasses = false
+style = "github" 
