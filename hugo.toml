@@ -28,6 +28,11 @@ url = '/program/'
 weight = 30
 
 [[languages.sk.menu.main]]
+name = 'Ukážka'
+url = '/zlomky-od-zakladu/'
+weight = 40
+
+[[languages.sk.menu.main]]
 name = '🇬🇧 English'
 url = '/en/'
 weight = 100
@@ -56,6 +61,11 @@ weight = 20
 name = 'Program'
 url = '/en/program/'
 weight = 30
+
+[[languages.en.menu.main]]
+name = 'Example'
+url = '/en/fractions-from-basics/'
+weight = 40
 
 [[languages.en.menu.main]]
 name = '🇸🇰 Slovenčina'

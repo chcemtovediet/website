@@ -1,0 +1,72 @@
+/* Dialog styles for teacher-student conversations */
+
+/* Container for all dialogs to prevent paragraph wrapping */
+.dialog-container {
+  margin: 20px 0;
+}
+
+.dialog-container > div {
+  margin: 2px 0 !important;
+}
+
+.teacher-dialog {
+  background-color: #e3f2fd;
+  padding: 18px 22px;
+  margin: 2px 0;
+  border-radius: 4px;
+  color: #212121;
+  line-height: 1.7;
+  display: block;
+}
+
+.teacher-dialog::before {
+  content: "Učiteľ";
+  font-weight: 600;
+  color: #1565c0;
+  display: inline-block;
+  margin-right: 8px;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.5px;
+}
+
+.student-dialog {
+  background-color: #f5f5f5;
+  padding: 18px 22px;
+  margin: 2px 0;
+  border-radius: 4px;
+  color: #212121;
+  line-height: 1.7;
+  display: block;
+}
+
+.student-dialog::before {
+  content: "Dieťa";
+  font-weight: 600;
+  color: #616161;
+  display: inline-block;
+  margin-right: 8px;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.5px;
+}
+
+.no-response {
+  background-color: #f5f5f5;
+  padding: 18px 22px;
+  margin: 2px 0;
+  border-radius: 4px;
+  font-style: italic;
+  color: #616161;
+  line-height: 1.7;
+  display: block;
+}
+
+/* English versions */
+.teacher-dialog.en::before {
+  content: "Teacher";
+}
+
+.student-dialog.en::before {
+  content: "Student";
+}

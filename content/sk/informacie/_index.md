@@ -4,19 +4,19 @@ title = "Informácie"
 
 ## O projekte
 
-Chcem To Vedieť je vzdelávací projekt zameraný na rozvoj matematického myslenia detí prostredníctvom hier a aktivít v prírode. Inšpirujeme sa pedagogickými princípmi Jána Amosa Komenského, otca modernej pedagogiky, ktorý presadzoval učenie sa cez zmysly a priamy kontakt so svetom.
+Chcem To Vedieť je vzdelávací projekt s matematickými aktivitami zameranými na rozvoj logického myslenia detí. Ide o aktivity vhodné pre tých, ktorí nerozumejú dobre tomu, čo pri riešení matematických príkladov robia, aj pre tých, ktorí chcú rozumieť matematike hlbšie, radi sa pýtajú a radi hľadajú odpovede.
+V rozvrhu si môžete vybrať typ a úroveň aktivity, tak, aby čo najlepšie zodpovedala vašim predstavám.
 
 ## Prečo matematika v prírode?
 
-Príroda je plná matematických vzorov a zákonitostí. Keď dети:
-- Počítajú kamienky pri potoku, učia sa základy aritmetiky
-- Pozorujú symetriu v listoch, objavujú geometriu
-- Merajú tieň stromu, chápajú proporcie
-- Hľadajú vzory v šiškách, poznávajú Fibonacciho postupnosť
+Príroda poskytuje prostredie, kde sa deti cítia uvoľnene a neberú aktivity, ktorými sa tam zaoberajú ako povinnosť.
 
 ## Náš prístup
 
-Učíme sa hrou, experimentom a objavovaním. Žiadne učebnice, len zvedavosť, radosť a príroda ako najlepší učiteľ.
+Učíme sa kladením otázok k nejakej téme a hľadaním odpovedí. Otázky kladie učiteľ aj deti ak ich nejaké napadnú. Odpovede hľadáme spolu.
+Pre lepšiu predstavu uvádzame [ukážku](/zlomky-od-zakladu/) aktivity na tému 'Zlomky od základu'.
+
+Žiadne učebnice, len zvedavosť a chuť spolupracovať.
 
 ## Kontakt
 
