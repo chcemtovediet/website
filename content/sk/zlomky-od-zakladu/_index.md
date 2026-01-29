@@ -80,13 +80,14 @@ Už viem, každé dieťa dostane 1/6 a každý z rodičov dostane 2/6.
 <div class="teacher-dialog">
 Výborne! Chcete skúsiť aj inú rodinu, napríklad mama s tromi deťmi?
 </div>
+<div class="student-dialog">
+...
+</div>
+
 <div class="teacher-dialog">
 Dolná časť sa volá menovateľ, lebo dáva zlomku meno (napr. tretina, keď sme delili na tri časti) a horná časť sa volá čitateľ a hovorí nám, koľko takých častí použijeme.
 </div>
 
-<div class="teacher-dialog">
-...
-</div>
 
 
 </div>

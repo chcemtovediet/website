@@ -4,19 +4,19 @@ title = "Information"
 
 ## About the Project
 
-We Want To Know is an educational project focused on developing children's mathematical thinking through play and activities in nature. We draw inspiration from the pedagogical principles of Jan Amos Comenius, the father of modern pedagogy, who advocated learning through the senses and direct contact with the world.
+We Want To Know is an educational project with mathematics activities focused on developing children's logical thinking. These are activities suitable for those who don't fully understand what they're doing when solving math problems, as well as for those who want to understand mathematics more deeply, like to ask questions, and enjoy searching for answers.
+In the schedule, you can choose the type and level of activity to best match your expectations.
 
 ## Why Mathematics in Nature?
 
-Nature is full of mathematical patterns and principles. When children:
-- Count pebbles by the stream, they learn basic arithmetic
-- Observe symmetry in leaves, they discover geometry
-- Measure a tree's shadow, they understand proportions
-- Look for patterns in pine cones, they encounter the Fibonacci sequence
+Nature provides an environment where children feel relaxed and don't perceive the activities they engage in as obligations.
 
 ## Our Approach
 
-We learn through play, experimentation, and discovery. No textbooks, just curiosity, joy, and nature as the best teacher.
+We learn by asking questions about a topic and searching for answers. Questions are asked by both the teacher and children if any come to mind. We search for answers together.
+For a better understanding, we provide an [example](/en/fractions-from-basics/) of an activity on the topic 'Fractions from Basics'.
+
+No textbooks, just curiosity and willingness to cooperate.
 
 ## Contact
 
