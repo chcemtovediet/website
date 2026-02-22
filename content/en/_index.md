@@ -1,5 +1,5 @@
 +++
-title = "I Want To Know"
+title = "We Want To Know"
 [paige.pages]
 disable_collections = true
 disable_pages = true
@@ -12,7 +12,7 @@ disable_title = true
 <div class="container-fluid mt-4">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-0">
-            <p class="lead mb-0 text-center">Supporting mathematics education for children through playful learning in nature, inspired by Jan Amos Comenius - School through Play.</p>
+            <p class="lead mb-0 text-center">Mathematics that makes sense. Discover the joy of thinking.</p>
         </div>
     </div>
 </div>
@@ -21,8 +21,8 @@ disable_title = true
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8">
             <h2 class="text-center mb-4">Our Vision</h2>
-            <p>We believe mathematics doesn't have to be scary, but joyful. We are inspired by Jan Amos Comenius, who centuries ago understood that children learn best through play and contact with nature.</p>
-            <p>We create a space where children discover mathematical principles through play, experimentation, and exploration of natural phenomena. Geometry in leaf shapes, symmetry in butterfly wings, numbers in pine cones - mathematics is all around us.</p>
+            <p>Mathematics doesn't have to be scary. I believe that if we offer children space for discovery instead of formulas, it becomes natural and fun for them. Where traditional teaching hits the limits of time, we open doors to curiosity.</p>
+            <p>In We Want To Know activities, we replace mechanical copying with true understanding. We don't just teach children to calculate, we teach them to think and solve challenges logically.</p>
         </div>
     </div>
 </div>

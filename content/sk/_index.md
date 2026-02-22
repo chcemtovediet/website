@@ -12,7 +12,7 @@ disable_title = true
 <div class="container-fluid mt-4">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-0">
-            <p class="lead mb-0 text-center">Podpora matematického vzdelávania detí hravou formou v prírode, v duchu Jána Amosa Komenského - Škola hrou.</p>
+            <p class="lead mb-0 text-center">Matematika, ktorá dáva zmysel. Objavte radosť z premýšľania.</p>
         </div>
     </div>
 </div>
@@ -21,8 +21,8 @@ disable_title = true
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8">
             <h2 class="text-center mb-4">Naša vízia</h2>
-            <p>Veríme, že matematika nemusí byť strašiak, ale radosť. Inšpirujeme sa myšlienkami Jána Amosa Komenského, ktorý pred stáročiami pochopil, že deti sa najlepšie učia hrou a v kontakte s prírodou.</p>
-            <p>Vytvárame priestor, kde deti objavujú matematické princípy cez hru, experiment a skúmanie prírodných javov. Geometria v tvaroch listov, symetria v motýľových krídlach, čísla v šiškách - matematika je všade okolo nás.</p>
+            <p>Matematika nemusí byť strašiak. Verím, že ak deťom namiesto vzorcov ponúkneme priestor na objavovanie, stane sa pre ne prirodzenou a zábavnou. Tam, kde klasické vyučovanie naráža na nedostatok času, my otvárame dvere zvedavosti. </p>
+            <p>V aktivitách Chcem To Vedieť nahrádzame mechanické kopírovanie skutočným porozumením. Neučíme deti len počítať, učíme ich premýšľať a logicky riešiť výzvy.</p>
         </div>
     </div>
 </div>
