@@ -4,18 +4,21 @@ title = "Activity Schedule"
 
 ## Weekend February 7-8, 2026
 
+```
 |       | Saturday               |       | Sunday                    |
 |-------|------------------------|-------|---------------------------|
 | 10:00 | Fractions from Basics  | 10:00 |                           |
 | 14:00 | Equations from Basics  | 14:00 |                           |
 | 15:00 |                        | 15:00 | Advanced Equations        |
 | 16:00 |                        | 16:00 | Geometry - Angles         |
+```
+
 
 Each activity follows the description provided below, but adapts to the questions and reactions of participating children. **It is important to join the activity at its beginning**, as it builds knowledge progressively and the teacher's questions build on previous content. You can leave the activity at any time.
 
 **Parents are fully responsible for their children during the activity.**
 
-**Location** of the activity is in the vicinity of the amphitheater and is marked with a sign saying "Chcem to vedieť" (We Want to Know).
+**Location** of the activity is in the vicinity of the amphitheater and is marked with a sign saying "Chcem to vedieť" (I Want to Know).
 
 ---
 

@@ -1,15 +1,17 @@
 +++
-title = "Rozvrh Aktivít"
+title = "Rozvrh aktivít"
 +++
 
 ## víkend 7.2. - 8.2. 2026
 
+```
 |       | sobota                 |       | nedeľa               |
 |-------|------------------------|-------|----------------------|
 | 10:00 | Zlomky od základu      | 10:00 |                      |
 | 14:00 | Rovnice od základu     | 14:00 |                      |
 | 15:00 |                        | 15:00 | Rovnice pokročilí    |
 | 16:00 |                        | 16:00 | Geometria - uhly     |
+```
 
 Každá aktivita sa riadi popisom uvedeným nižšie, ale prispôsobuje sa otázkam a reakciám zúčastnených detí. **Je dôležité sa do aktivity zapojiť na jej začiatku**, vzhľadom na to, že buduje vedomosti postupne otázky učiteľa nadväzujú na predošlý obsah. Odísť z aktivity je možné kedykoľvek.
 

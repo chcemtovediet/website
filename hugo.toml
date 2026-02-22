@@ -10,7 +10,7 @@ weight = 1
 contentDir = 'content/sk'
 
 [languages.sk.params.paige.site]
-description = 'Informačný portál'
+description = ''
 
 [[languages.sk.menu.main]]
 name = 'Domov'
@@ -22,13 +22,9 @@ name = 'Informácie'
 url = '/informacie/'
 weight = 20
 
-[[languages.sk.menu.main]]
-name = 'Program'
-url = '/program/'
-weight = 30
 
 [[languages.sk.menu.main]]
-name = 'Rozvrh Aktivít'
+name = 'Rozvrh aktivít'
 url = '/rozvrh-aktivit/'
 weight = 35
 
@@ -45,12 +41,12 @@ weight = 100
 [languages.en]
 languageCode = 'en-us'
 languageName = 'English'
-title = 'We Want To Know'
+title = 'I Want To Know'
 weight = 2
 contentDir = 'content/en'
 
 [languages.en.params.paige.site]
-description = 'Information portal'
+description = ''
 
 [[languages.en.menu.main]]
 name = 'Home'
@@ -61,11 +57,6 @@ weight = 10
 name = 'Information'
 url = '/en/information/'
 weight = 20
-
-[[languages.en.menu.main]]
-name = 'Program'
-url = '/en/program/'
-weight = 30
 
 [[languages.en.menu.main]]
 name = 'Activity Schedule'

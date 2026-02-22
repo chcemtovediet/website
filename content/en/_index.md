@@ -1,5 +1,5 @@
 +++
-title = "We Want To Know"
+title = "I Want To Know"
 [paige.pages]
 disable_collections = true
 disable_pages = true

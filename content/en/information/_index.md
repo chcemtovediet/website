@@ -4,7 +4,7 @@ title = "Information"
 
 ## About the Project
 
-We Want To Know is an educational project with mathematics activities focused on developing children's logical thinking. These are activities suitable for those who don't fully understand what they're doing when solving math problems, as well as for those who want to understand mathematics more deeply, like to ask questions, and enjoy searching for answers.
+I Want To Know is an educational project with mathematics activities focused on developing children's logical thinking. These are activities suitable for those who don't fully understand what they're doing when solving math problems, as well as for those who want to understand mathematics more deeply, like to ask questions, and enjoy searching for answers.
 In the schedule, you can choose the type and level of activity to best match your expectations.
 
 ## Why Mathematics in Nature?
