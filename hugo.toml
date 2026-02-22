@@ -28,6 +28,11 @@ url = '/program/'
 weight = 30
 
 [[languages.sk.menu.main]]
+name = 'Rozvrh Aktivít'
+url = '/rozvrh-aktivit/'
+weight = 35
+
+[[languages.sk.menu.main]]
 name = 'Ukážka'
 url = '/zlomky-od-zakladu/'
 weight = 40
@@ -61,6 +66,11 @@ weight = 20
 name = 'Program'
 url = '/en/program/'
 weight = 30
+
+[[languages.en.menu.main]]
+name = 'Activity Schedule'
+url = '/en/activity-schedule/'
+weight = 35
 
 [[languages.en.menu.main]]
 name = 'Example'
